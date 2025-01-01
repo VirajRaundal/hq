@@ -33,15 +33,15 @@ button{
 }
 
 .blog{
-    background-color: #d4ffA0;
-}
-
-.case-studies{
     background-color: #deb887;
 }
 
-.me{
+.case-studies{
     background-color: beige;
+}
+
+.me{
+    background-color: #E0B0FF;
 }
 
 .blog:hover{
