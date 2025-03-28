@@ -10,12 +10,12 @@ a{
     text-decoration: none;
 }
 
-body{
+body {
     display: flex;
     height: 100vh;
     justify-content: center;
     align-items: center;
-    font-family: system-ui, -apple-system, sans-serif;
+    font-family: "Times New Roman", Times, serif;
     line-height: 1.6;
     background-color: #b1dff1;
     margin: 0;
